@@ -1,6 +1,6 @@
-# PORTFÓLIO CURSO LÓGICA DE PROGRAMAÇÃO
+CURSO LÓGICA DE PROGRAMAÇÃO
 <h2>📌 Sobre </h2>
-<p> Esse portfólio foi feito com base nos projetos das aulas passadas no curso da Alura, resolvendo os desafios de primeiros passos para aprendizado da lógica.
+<p>Pequenos projetos feitos com base nas aulas passadas do curso da Alura, resolvendo os desafios de primeiros passos para aprendizado de lógica.
 
 ## 🚀 Tecnologias usadas
 <div>
